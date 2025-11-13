@@ -1,6 +1,13 @@
 <div align="center">
-  <img src="https://i.ibb.co/GfVCf8KV/banner-git.png" alt="Camila Vásquez - Data Engineer & Data Analyst" width="1000">
+  <img src="https://i.ibb.co/GfVCf8KV/banner-git.png"
+       alt="Camila Vásquez - Data Engineer & Data Analyst"
+       width="1000"
+       style="border-radius: 12px;">
 </div>
+
+<h1 align="center">Camila Vásquez</h1>
+<h3 align="center">Data Engineer & Data Analyst</h3>
+
 ---
 
 ### 👩‍💻 About Me
