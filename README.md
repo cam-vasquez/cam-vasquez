@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://i.ibb.co/wFgFsKBp/pic.png" alt="Camila Vásquez" width="230">
-</p>
-<h1 align="center">Camila Vásquez</h1>
-<h3 align="center">Data Engineer & Data Analyst</h3>
-
+<img src="https://i.ibb.co/PsW2nXWy/profile-pic.png"
+       alt="Camila Vásquez"
+       width="230"
+       height="280"
+      ">
+  <h1>Camila Vásquez</h1>
+  <h3>Data Engineer & Data Analyst</h3>
+</div>
 
 ---
 
