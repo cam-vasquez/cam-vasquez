@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.ibb.co/Vpqr6RYC/perfil-pic.png"
+  <img src="https://i.ibb.co/PsW2nXWy/profile-pic.png"
        alt="Camila Vásquez"
-       width="230"
-       height="230"
+       width="200"
+       height="200"
        style="object-fit: cover; object-position: top center; border-radius: 50%;">
   <h1>Camila Vásquez</h1>
   <h3>Data Engineer & Data Analyst</h3>
