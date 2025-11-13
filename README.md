@@ -3,7 +3,7 @@
        alt="Camila Vásquez"
        width="230"
        height="230"
-       style="object-fit: cover; object-position: center; border-radius: 50%;">
+       style="object-fit: cover; object-position: top center; border-radius: 50%;">
   <h1>Camila Vásquez</h1>
   <h3>Data Engineer & Data Analyst</h3>
 </div>
