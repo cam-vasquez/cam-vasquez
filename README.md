@@ -60,7 +60,7 @@ Automated data extraction and transformation using Python and AWS services, opti
 
 ### 🌐 Find Me Online
 <p align="center">
-  <a href="www.linkedin.com/in/fernanda-vásquez-it" target="_blank">
+  <a href="https://www.linkedin.com/in/fernanda-vásquez-it" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2062f8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://drive.google.com/drive/folders/1Gw4JlxE3BIjczwuOyCt0VH9-wwHhpe9z?usp=drive_link" target="_blank">
@@ -70,6 +70,7 @@ Automated data extraction and transformation using Python and AWS services, opti
     <img src="https://img.shields.io/badge/GitHub-f6fafe?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
 </p>
+
 
 ---
 
