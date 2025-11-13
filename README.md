@@ -2,11 +2,11 @@
   <img src="https://i.ibb.co/PsW2nXWy/profile-pic.png"
        alt="Camila Vásquez"
        width="230"
-       style="border-radius: 50%;">
+       height="230"
+       style="border-radius:50%; border: 2px solid #000000; object-fit: cover;">
   <h1>Camila Vásquez</h1>
   <h3>Data Engineer & Data Analyst</h3>
 </div>
-
 ---
 
 ### 👩‍💻 About Me
