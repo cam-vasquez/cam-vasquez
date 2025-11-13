@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/k2sh594R/pic.png"
+<img src="https://i.ibb.co/cKVh1SrR/pic.png"
        alt="Camila Vásquez"
        width="230"
        height="280"
