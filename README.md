@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cambiaraqui.com/tu-foto.jpg" alt="Camila Vásquez" width="150" style="border-radius:50%">
+  <img src="https://i.ibb.co/Vpqr6RYC/perfil-pic.png" alt="Camila Vásquez" width="150" style="border-radius:50%">
   <h1>Camila Vásquez</h1>
   <h3>Data Engineer & Data Analyst</h3>
 </div>  
@@ -56,23 +56,15 @@ Automated data extraction and transformation using Python and AWS services, opti
 
 ### 🌐 Find Me Online
 <p align="center">
-  <a href="https://www.linkedin.com/in/camilavasquez/" target="_blank">
+  <a href="www.linkedin.com/in/fernanda-vásquez-it" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2062f8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://cambiaraqui.com" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1Gw4JlxE3BIjczwuOyCt0VH9-wwHhpe9z?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://github.com/camilavasquez" target="_blank">
+  <a href="https://github.com/cam-vasquez" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-f6fafe?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilavasquez&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilavasquez&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
