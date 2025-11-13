@@ -1,12 +1,13 @@
-<div align="center">
+<p align="center">
   <img src="https://i.ibb.co/PsW2nXWy/profile-pic.png"
        alt="Camila Vásquez"
        width="230"
        height="230"
-       style="border-radius:50%; border: 2px solid #000000; object-fit: cover;">
-  <h1>Camila Vásquez</h1>
-  <h3>Data Engineer & Data Analyst</h3>
-</div>
+       style="border-radius:50%; border:2px solid black;">
+</p>
+<h1 align="center">Camila Vásquez</h1>
+<h3 align="center">Data Engineer & Data Analyst</h3>  
+
 ---
 
 ### 👩‍💻 About Me
