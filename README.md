@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://i.ibb.co/PsW2nXWy/profile-pic.png"
        alt="Camila Vásquez"
        width="230"
